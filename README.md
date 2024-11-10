@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bagusweb" alt="bagusweb" /></a> </p>
 
-- 🔭 I’m currently working on [belajar coding](bagusweb.github.io/belajar-coding-with-bagus)
+- 🔭 I’m currently working on [belajar coding](https://bagusweb.github.io/belajar-coding-with-bagus)
 
 - 👯 I’m looking to collaborate on [learn talwind](https://bagusweb.github.io/learn-talwind-b/)
 
