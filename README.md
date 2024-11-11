@@ -17,13 +17,17 @@
 - 📫 How to reach me: **laptopbagus139@gmial.com**
 - ⚡ Fun fact: **I think I am funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/lanzzz.20" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lanzzz.20" height="30" width="40" />
-  </a>
-</p>
-
+  <div align="center">
+    <p>Connect with me</p>
+    <table>
+        <tr>
+            <td><a href="https://wa.me/6285894493680"><img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4170-b46e-4f1811729209.png" alt="WhatsApp" title="WhatsApp"/></a></td>
+            <td><a href="https://www.instagram.com/lanzzz.20"><img width="30" src="https://user-images.githubusercontent.com/25181517/186884153-d46c3f5f-5f17-4fae-a6b9-f546f2ed3b36.png" alt="Instagram" title="Instagram"/></a></td>
+            <td><a href="https://www.tiktok.com/@lanzstore20"><img width="30" src="https://user-images.githubusercontent.com/25181517/186884154-df2d5d59-c71d-4e96-969d-df36af82d5e6.png" alt="TikTok" title="TikTok"/></a></td>
+            <td><a href="https://github.com/Bagusweb"><img width="30" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="GitHub" title="GitHub"/></a></td>
+        </tr>
+    </table>
+</div>
 <div align="center">
     <p>Languages | Frameworks | Tools</p>
     <table>
