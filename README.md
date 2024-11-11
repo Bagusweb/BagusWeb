@@ -46,10 +46,14 @@
 
 
 <div align="center">
-
+  
+![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  
 ![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagusweb&theme=vue-dark&hide_border=false)
 
-![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+</div>
+<div align="center">
+  <img align="center" height="150" src="https://i.pinimg.com/originals/26/20/f0/2620f098fda0c1ece4ef1da01fed6339.gif"  />
 </div>
