@@ -17,7 +17,7 @@
 - 📫 How to reach me: **laptopbagus139@gmial.com**
 - ⚡ Fun fact: **I think I am funny**
 
-  <div align="center">
+<div align="center">
     <p>Connect with me</p>
     <table>
         <tr>
