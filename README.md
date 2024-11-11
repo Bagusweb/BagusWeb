@@ -46,7 +46,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Bagusweb" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Bagusweb" height="150" alt="languages graph"  />
+
+![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagusweb&theme=vue-dark&hide_border=false)
+
+![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 </div>
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
