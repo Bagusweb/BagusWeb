@@ -54,6 +54,3 @@
 ![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagusweb&theme=vue-dark&hide_border=false)
 
 </div>
-<div align="center">
-  <img align="center" height="150" src="https://i.pinimg.com/originals/26/20/f0/2620f098fda0c1ece4ef1da01fed6339.gif"  />
-</div>
