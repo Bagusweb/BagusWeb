@@ -47,10 +47,10 @@
 
 <div align="center">
   
-![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
   
-![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=Bagusweb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bagusweb&theme=vue-dark&hide_border=false)
+![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bagusweb&theme=vue-dark&hide_border=false)
 
 </div>
