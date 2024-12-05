@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on [Belajar Coding](https://bagusweb.github.io/belajar-coding-with-bagus)  
-- 👯 I’m looking to collaborate on [Learn Tailwind](https://bagusweb.github.io/learn-talwind-b/)  
+- 👯 I’m looking to collaborate on [Quran App](https://quran-app-bagus.vercel.app/)  
 - 📫 How to reach me: **laptopbagus139@gmial.com**  
 - ⚡ Fun fact: **I think I am funny**
 
@@ -48,10 +48,10 @@
 
 <div align="center">
   
-![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusweb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
   
-![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=Bagusweb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bagusweb&theme=vue-dark&hide_border=false)
+![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BagusWeb&theme=vue-dark&hide_border=false)
 
 </div>
