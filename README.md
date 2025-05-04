@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on [Belajar Coding](https://bagusweb.github.io/belajar-coding-with-bagus)  
-- 👯 I’m looking to collaborate on [Quran App](https://quran-app-bagus.vercel.app/)  
+- 👯 I’m looking to collaborate on [Splashanime-id](https://splashanime-id.vercel.app/)  
 - 📫 How to reach me: **laptopbagus139@gmial.com**  
 - ⚡ Fun fact: **I think I am funny**
 
