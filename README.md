@@ -46,12 +46,4 @@
 </div>
 
 
-<div align="center">
-  
-![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-  
-![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![heryyy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BagusWeb&theme=vue-dark&hide_border=false)
-
-</div>
