@@ -50,6 +50,8 @@
 ![heryyy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
   
 ![heryyy's Stats](https://github-readme-stats.vercel.app/api?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BagusWeb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
