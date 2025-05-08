@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bagusweb&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="bagusweb" /> 
+  <img src="https://komarev.com/ghpvc/?username=BagusWeb&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="bagusweb" /> 
   <img src="https://img.shields.io/github/followers/BagusWeb?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
 </p>
 
@@ -62,11 +62,11 @@
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=bagusweb&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=BagusWeb&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagusweb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BagusWeb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
